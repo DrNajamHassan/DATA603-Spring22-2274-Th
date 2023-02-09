@@ -38,19 +38,19 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in Performing Arts & Humani
 | Week | **Date** | **Topic** | **Due** |
 | --- | --- | --- | --- |
 | **Week 1** | 02-02-2023 | - Big Data and Distributed Computing Introduction ||
-| **Week 2** | 02-09-2023  |- Distributed File Systems and File Formats<br/>- Distributed Databases ||
-| **Week 3** | 02-16-2023  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | - Assignment 1: Big Data Topics Markdown |
-| **Week 4** | 02-23-2023  |- NoSQL Databases | - Assignment 2: Word Count using MapReduce |
-| **Week 5** | 03-02-2023  |- Introduction to Apache Spark |- Project: Team Assignment & Project Selection |
-| **Week 6** | 03-09-2023  |- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Proposal Presentation<br/>- Company Assessment: Company Selected & Assigned | 
-| **Week 7** | 03-16-2023  |- Quiz #1<br/>- Apache Hive | - Technical Paper: Topic Approval<br/>- Quiz 1: Week 1-4 |
+| **Week 2** | 02-09-2023  |- Distributed File Systems and File Formats<br/>- Distributed Databases | - Groups Created |
+| **Week 3** | 02-16-2023  |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing | - Assignment 1: Big Data Topics Markdown<br/> - Company Assessment: Company Selected & Assigned |
+| **Week 4** | 02-23-2023  |- NoSQL Databases | - Programming Environment Ready<br/> - Technical Paper: Topic Approval |
+| **Week 5** | 03-02-2023  |- Introduction to Apache Spark | - Project: Team Assignment & Project Selection<br/>- Assignment 2: Word Count using MapReduce |
+| **Week 6** | 03-09-2023  |- Spark Resilient Distributed Dataset (RDD)<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
+| **Week 7** | 03-16-2023  |- Spark Streaming<br/>- Apache Storm<br/>- Apache Kafka | - Project: Proposal Presentation |
 | **Week 8** | 03-23-2023  |- Spring Break - No Class |
-| **Week 9** | 03-30-2023  |- Spark Streaming<br/>- Apache Storm<br/>- Apache Kafka | - Assignment 3: Using Apache Spark |
-| **Week 10** | 04-06-2023  |- Apache HBase<br/>- Apache Pig ||
-| **Week 11** | 04-13-2023  |- "FAANG" Big Data Presentations and Discussion | - Company Assessment: Final Presentation |
-| **Week 12** | 04-20-2023  |- Apache HUE<br/>- Hadoop YARN |- Assignment 4: Streaming Assignment |
-| **Week 13** | 04-27-2023  |- Quiz #2<br/>- Project: Progress Report | -Technical Paper: Final Submission<br/>- Quiz 2: Week 5-11 |
-| **Week 14** | 05-04-2023  |- Apache ZooKeeper<br/>- Graph Analytics ||
+| **Week 9** | 03-30-2023  |- Data Warehouse, Data Lakes & Data Lakehouse<br/>- Apache Hive | - Assignment 3: Using Apache Spark |
+| **Week 10** | 04-06-2023  |- "FAANG" Big Data Presentations and Discussion | - Company Assessment: Final Presentation ||
+| **Week 11** | 04-13-2023  |- Apache HBase<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
+| **Week 12** | 04-20-2023  |- Apache Pig<br/>- Technical Paper Presentation | - Technical Paper: Final Submission |
+| **Week 13** | 04-27-2023  |- Apache HUE<br/>- Hadoop YARN<br/>- Apache ZooKeeper<br/>- Graph Analytics||
+| **Week 14** | 05-04-2023  |- Quiz #2 | - Quiz 2: Week 6-13 |
 | **Week 15** | 05-11-2023  |- Project Presentations | - Final Project Submission |
 
 # Suggested Readings:
