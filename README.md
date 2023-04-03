@@ -43,14 +43,14 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in Performing Arts & Humani
 | **Week 4** | 02-23-2023  |- Hadoop Distributed File Systems<br/>- NoSQL Databases<br/>- Apache Pig | - Programming Environment Ready<br/> - Technical Paper: Topic Approval |
 | **Week 5** | 03-02-2023  |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD)<br/>- Data Warehouse, Data Lakes & Data Lakehouse | - Project: Team Assignment & Project Selection<br/>- Assignment 2: Word Count using MapReduce |
 | **Week 6** | 03-09-2023  |- Spark Streaming<br/>- Quiz #1 | - Quiz 1: Week 1-5 | 
-| **Week 7** | 03-16-2023  |- Apache Storm<br/>- Apache Kafka | - Project: Proposal Presentation |
+| **Week 7** | 03-16-2023  |- Apache Hive<br/>- Apache Hue ||
 | **Week 8** | 03-23-2023  |- Spring Break - No Class |
-| **Week 9** | 03-30-2023  |- Apache Hive<br/>- Apache HUE | - Assignment 3: Using Apache Spark |
+| **Week 9** | 03-30-2023  |- Project Proposal Presentation<br/>- Apache Kafka | - Assignment 3: Using Apache Spark<br/>- Project Proposal Presentation |
 | **Week 10** | 04-06-2023  |- Big Data Organization: Company Assessment Presentations | - Company Assessment: Final Presentation ||
-| **Week 11** | 04-13-2023  |- Apache HBase<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
+| **Week 11** | 04-13-2023  |- Apache Storm<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
 | **Week 12** | 04-20-2023  |- Technical Paper Presentation | - Technical Paper: Final Submission |
-| **Week 13** | 04-27-2023  |- Hadoop YARN<br/>- Apache ZooKeeper<br/>- Graph Analytics||
-| **Week 14** | 05-04-2023  |- Quiz #2 | - Quiz 2: Week 6-13 |
+| **Week 13** | 04-27-2023  |- Apache Storm<br/>- Hadoop YARN<br/>- Apache ZooKeeper||
+| **Week 14** | 05-04-2023  |- Graph Analytics<br/>- Quiz #2 | - Quiz 2: Week 6-13 |
 | **Week 15** | 05-11-2023  |- Project Presentations | - Final Project Submission |
 
 # Suggested Readings:
