@@ -47,10 +47,10 @@ Thursday – 7:10 - 9:40, in-person, on-site classes in Performing Arts & Humani
 | **Week 8** | 03-23-2023  |- Spring Break - No Class |
 | **Week 9** | 03-30-2023  |- Project Proposal Presentation<br/>- Apache Kafka | - Assignment 3: Using Apache Spark<br/>- Project Proposal Presentation |
 | **Week 10** | 04-06-2023  |- Big Data Organization: Company Assessment Presentations | - Company Assessment Presentation ||
-| **Week 11** | 04-13-2023  |- Apache Storm<br/>- Project: Progress Report | - Assignment 4: Streaming Assignment<br/>- Project: Progress Report |
+| **Week 11** | 04-13-2023  |- Apache Storm<br/>- Graph Analytics | - Assignment 4: Streaming Assignment |
 | **Week 12** | 04-20-2023  |- Technical Paper Presentation | - Technical Paper: Final Submission |
-| **Week 13** | 04-27-2023  |- Hadoop YARN<br/>- Apache ZooKeeper||
-| **Week 14** | 05-04-2023  |- Graph Analytics<br/>- Quiz #2 | - Quiz 2: Week 6-13 |
+| **Week 13** | 04-27-2023  |- Hadoop YARN<br/>- Apache ZooKeeper<br/>- Project: Progress Report| - Project: Progress Report |
+| **Week 14** | 05-04-2023  |- Apache HBase<br/>- Quiz #2 | - Quiz 2: Week 6-13 |
 | **Week 15** | 05-11-2023  |- Project Presentations | - Final Project Submission |
 
 # Suggested Readings:
